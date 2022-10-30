@@ -13,6 +13,7 @@ import html from '../assets/html.png';
 import javascript from '../assets/javascript.png';
 import jobify from '../assets/jobify.PNG';
 import portfolio from '../assets/portfolio.PNG';
+import hoobank from '../assets/hoobank.PNG';
 import ecommerce from '../assets/e-commerce.PNG';
 import varsity from '../assets/varsity.PNG';
 import dolla from '../assets/dolla.PNG';
@@ -54,6 +55,7 @@ export default {
   email,
   mern,
   vogues,
+  hoobank,
   tailwind,
   webdev,
   frontend,
