@@ -21,7 +21,7 @@ const About = () => {
       <h2 className='head-text'>
         About
       </h2>
-      <h5 style={{width: '60%', textAlign: 'center', marginTop: '30px'}} className='bold-text'>I am Ridwan Hamzat, a web developer based in Lagos, Nigeria. I am passionate about building websites which meet the needs of my clients.<br/> My current stack includes React, Node JS, mongo DB.<br/> I am in the process of learning Typescript and NextJs.</h5>
+      <h5 style={{width: '60%', textAlign: 'center', marginTop: '30px'}} className='bold-text'>I am Ridwan Hamzat, a web developer based in Lagos, Nigeria. I am passionate about building websites which meet the needs of my clients.<br/> My current stack includes React, Node JS, mongo DB.<br/> I'm currently learning Typescript and NextJs.</h5>
       <div className='app__profiles'>
         {abouts.map((about, index)=> (
           <motion.div
