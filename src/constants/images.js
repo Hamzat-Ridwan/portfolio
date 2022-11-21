@@ -50,9 +50,11 @@ import frontend from '../assets/frontend.svg';
 import backend from '../assets/backend.svg';
 import vogues from '../assets/vogues.PNG';
 import tailwind from '../assets/tailwind.png';
+import metabnb from '../assets/metabnb.png';
 
 export default {
   email,
+  metabnb,
   mern,
   vogues,
   hoobank,
