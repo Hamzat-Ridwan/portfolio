@@ -16,7 +16,6 @@ const works = [
   {title: 'Hoobank', tools:['React', 'Tailwind', 'Framer motion'], imgUrl: images.hoobank, codeLink: 'https://github.com/Hamzat-Ridwan/hoobank', projectLink: 'https://hoobank-by-ridwan.app', description: 'Your virtual bank for your transactions'},
   {title: 'dolla', tools:['react', 'styled-components'], imgUrl: images.dolla, codeLink: 'https://github.com/Hamzat-Ridwan/dolla', projectLink: 'https://dolla-hamza.netlify.app', description: 'An online banking platform'},
   {title: 'Varsity', tools:['React', 'css'], imgUrl: images.varsity, codeLink: 'https://github.com/Hamzat-Ridwan/Varsity', projectLink: 'https://unilorin.netlify.app', description: 'The best place to get your tertiary education'},
-  {title: 'Monsters', tools:['React'], imgUrl: images.monsters, codeLink: 'https://github.com/Hamzat-Ridwan/monsters', projectLink: 'https://monsters-rid.netlify.app', description: 'A simple react app to search for your monsters'},
 ]
 
 const Work = () => {
