@@ -85,7 +85,7 @@ const Footer = () => {
         </div>
         </a>
       </div>
-      <p className='p-text app__flex'>Ridwan Hamzat 2022</p>
+      <p className='p-text app__flex'>Ridwan Hamzat {new Date().getFullYear()}</p>
     </>
   )
 }
