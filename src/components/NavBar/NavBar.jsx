@@ -1,6 +1,6 @@
 import React, {useState} from 'react'
 import {HiMenuAlt4, HiX} from 'react-icons/hi'
-import { motion} from 'framer-motion'
+import { motion, AnimatePresence} from 'framer-motion'
 import './NavBar.scss'
 
 const NavBar = () => {
@@ -16,7 +16,7 @@ const NavBar = () => {
                     <div />
                     <a href={`#${item}`}>{item}</a>
                     
-                </li>
+                </li> 
             )) }
         </ul>
 

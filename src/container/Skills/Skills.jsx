@@ -43,7 +43,7 @@ const Skills = () => {
           ))}
         </motion.div>
       </div>
-      <a href="https://drive.google.com/file/d/1sfmOcyo3yOoZDbLKDmbJifyt1tk4oj3e/view?usp=sharing" download  className="resume p-text app__flex">Download Resume</a>
+      <a href="https://drive.google.com/file/d/1xBs-CK1_61A75w13D1TB2-vqIa-knXb2/view?usp=sharing" download  className="resume p-text app__flex">Download Resume</a>
 
     </>
   )
