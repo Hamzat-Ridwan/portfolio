@@ -9,6 +9,7 @@ import MotionWrap from '../../wrapper/MotionWrap'
 
 
 const works = [
+  {title: 'Abodes', tools:['Next Js', 'Tailwind css'], imgUrl: images.abodes, codeLink: 'https://github.com/Hamzat-Ridwan/abodes', projectLink: 'https://abodes.vercel.app', description: 'An estate app for all your housing needs'},
   {title: 'Jobify', tools:['react', 'nodeJs','mongo', 'styled-components'], imgUrl: images.jobify, codeLink: 'https://github.com/Hamzat-Ridwan/JobifyProject', projectLink: 'https://jobify-hamza.herokuapp.com', description: 'A web application to keep track of your job applications'},
   {title: 'Vogues', tools:['React', 'Redux','Firebase', 'Stripe'], imgUrl: images.vogues, codeLink: 'https://github.com/Hamzat-Ridwan/', projectLink: 'https://vogues.web.app', description: 'Your one-stop store for your clothing.'},
   {title: 'Portfolio', tools:['React', 'Sass', 'Framer motion'], imgUrl: images.portfolio, codeLink: 'https://github.com/Hamzat-Ridwan/portfolio', projectLink: 'https://ridwan-hamzat.netlify.app', description: 'You are currently viewing this project'},

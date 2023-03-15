@@ -49,6 +49,7 @@ import webdev from '../assets/web-dev.svg';
 import frontend from '../assets/frontend.svg';
 import backend from '../assets/backend.svg';
 import vogues from '../assets/vogues.PNG';
+import abodes from '../assets/abodes.PNG';
 import tailwind from '../assets/tailwind.png';
 import metabnb from '../assets/metabnb.PNG';
 
@@ -57,6 +58,7 @@ export default {
   metabnb,
   mern,
   vogues,
+  abodes,
   hoobank,
   tailwind,
   webdev,
